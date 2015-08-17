@@ -1,4 +1,4 @@
-var ACCESS_TOKEN = 'ed05519c20dd2b68c45fb0c4f5d5fa46774b5b63';
+var ACCESS_TOKEN = '';
 var STRAVA_END_POINT = 'https://www.strava.com/api/v3/'
 
 function fetchData(URL) {
